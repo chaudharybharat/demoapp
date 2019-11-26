@@ -23,6 +23,13 @@ class MainActivity : AppCompatActivity() {
         snackbarMesssage(parentView,phone_number)
 
     }
+
+
+
+
+
+    /*====================================================*/
+
     private fun getMyPhoneNO():String {
         var phoneNumber=""
         if (ContextCompat.checkSelfPermission(
@@ -39,9 +46,7 @@ class MainActivity : AppCompatActivity() {
             val tMgr = getSystemService(Context.TELEPHONY_SERVICE) as TelephonyManager
             phoneNumber= tMgr.line1Number
             LogError.set("test","==>"+phoneNumber)
-            LogError.set("test","phoneType==>"+tMgr.phoneType)
-            LogError.set("test","deviceId==>"+tMgr.deviceId)
-            LogError.set("test","simOperator==>"+tMgr.simOperator)
+
 
         }
         return phoneNumber

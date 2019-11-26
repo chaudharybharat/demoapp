@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#5bcb84</color>
+    <color name="colorPrimaryDark">#5bcb84</color>
+    <color name="colorAccent">#5bcb84</color>
+    <color name="splace_bg">#5bcb84</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="text_color_light_black">#333333</color>
+    <color name="text_small_color">#9b9b9b</color>
+    <color name="btn_borader">#a4a5a7</color>
+    <color name="hint_color">#9b9b9b</color>
+    <color name="light_green">#c7f5c4</color>
+    <color name="gray_subscration">#f6f5f2</color>
+    <color name="divider">#edeef0</color>
+    <color name="transfarent">#00000000</color>
+    <color name="text_dark_gray">#a4a5a7</color>
+    <color name="default_view">#28A4A5A7</color>
+    <color name="spotify_txt">#777777</color>
+    <color name="blue">#007aff</color>
+    <color name="btn_fb">#3b5998</color>
+    <color name="red">#ed4956</color>
+
+    <color name="defaultContentColor">@android:color/black</color>
+    <color name="defaultBorderFlagColor">@android:color/transparent</color>
 </resources>
