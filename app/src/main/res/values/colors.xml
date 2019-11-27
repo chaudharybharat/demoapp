@@ -20,7 +20,7 @@
     <color name="blue">#007aff</color>
     <color name="btn_fb">#3b5998</color>
     <color name="red">#ed4956</color>
-
+    <color name="transparent">#00000000</color>
     <color name="defaultContentColor">@android:color/black</color>
     <color name="defaultBorderFlagColor">@android:color/transparent</color>
 </resources>
